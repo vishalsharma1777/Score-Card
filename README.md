@@ -54,7 +54,7 @@ After that go to your web browser and type http://localhost:3000/
 ![](screenshots/print.png)
 
  DATABASES WHERE ITS ALL STORED
-![](screenshots/databaseS.png)
+![](screenshots/databases.png)
 
 ## Copyright and License
 
